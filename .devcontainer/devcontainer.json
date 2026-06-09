@@ -1,6 +1,8 @@
 {
   "name": "PostgreSQL Curso",
 
+  "workspaceFolder": "/workspaces/postgrespace",
+
   "dockerComposeFile": "docker-compose.yml",
 
   "service": "workspace",
