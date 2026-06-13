@@ -108,6 +108,8 @@ postgres@sql.dev
    ```
 3. Marca **Save Password** y presiona **OK**.
 
+> ![conectar](images/connected_server.png)
+
 > **¿El servidor no aparece?** Solo en ese caso necesitas registrarlo a mano:
 > sigue la guía [Registrar el servidor manualmente](REGISTRAR_SERVIDOR.md).
 
